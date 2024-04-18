@@ -1,1 +1,1 @@
-wob: gunicorn main:main
+gunicorn app:app
